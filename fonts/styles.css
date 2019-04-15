@@ -1,0 +1,27 @@
+
+@font-face {
+  font-family: 'VNI-Aztek';
+  src: url('VNI-Aztek.eot?#iefix') format('embedded-opentype'),  url('VNI-Aztek.woff') format('woff'), url('VNI-Aztek.ttf')  format('truetype'), url('VNI-Aztek.svg#VNI-Aztek') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'VNI-Bandit';
+  src: url('VNI-Bandit.eot?#iefix') format('embedded-opentype'),  url('VNI-Bandit.woff') format('woff'), url('VNI-Bandit.ttf')  format('truetype'), url('VNI-Bandit.svg#VNI-Bandit') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VNI-AlgerianU';
+  src: url('VNI-AlgerianU.eot?#iefix') format('embedded-opentype'),  url('VNI-AlgerianU.woff') format('woff'), url('VNI-AlgerianU.ttf')  format('truetype'), url('VNI-AlgerianU.svg#VNI-AlgerianU') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VNI-Colonna';
+  src: url('VNI-Colonna.eot?#iefix') format('embedded-opentype'),  url('VNI-Colonna.woff') format('woff'), url('VNI-Colonna.ttf')  format('truetype'), url('VNI-Colonna.svg#VNI-Colonna') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
